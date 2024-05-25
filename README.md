@@ -10,7 +10,7 @@
 ### Current Status:
 
 - 💼 Learning Basic Languanges
-- I’m currently taking 4th Year College in Course of <strong>Bachelor of Science in Information Technology</strong>.
+- I’m Fresh Graduate of <strong>Bachelor of Science in Information Technology</strong>.
 - 💬 Feel free to teach/mentor me about <strong>Web Development</strong>, and <strong>Data Analytics</strong>.
 
 ------------------------------------------- 
